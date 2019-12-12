@@ -1,0 +1,18 @@
+.comment {
+  display: flex;
+}
+
+.comment img {
+  border-radius: 100%;
+  height: 35px;
+  width: 35px;
+  margin: 20px 10px 0 0;
+}
+
+.comment-description {
+  background: #eeeeee;
+  padding: 15px;
+  border-radius: 20px;
+  color: #3e3e3e;
+  font-size: 14px;
+}

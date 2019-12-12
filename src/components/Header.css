@@ -1,0 +1,23 @@
+#menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #4a90e2;
+  width: 100%;
+  height: 64px;
+}
+
+#menu img,
+#menu div {
+  margin: 0 40px;
+}
+
+#user-content {
+  display: flex;
+  align-items: center;
+}
+
+#menu svg {
+  font-size: 22px;
+  margin-left: 10px;
+}
